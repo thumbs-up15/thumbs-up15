@@ -4,8 +4,6 @@
 (img align="right" alt="Coding"  src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif")
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thumbs-up15" alt="thumbs-up15" /></a> </p>
-
 - 🌱 I’m currently learning **Node Js, React Native, PHP, React**
 
 - 👨‍💻 All of my projects are available at 
