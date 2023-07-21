@@ -1,7 +1,7 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2020/12/header-19.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Asmi Vats</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-(img align="right" alt="Coding"  src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif")
+<img align="right" alt="Coding"  src="https://i.gifer.com/3odR.gif">
 
 
 - 🌱 I’m currently learning **Node Js, React Native, PHP, React**
