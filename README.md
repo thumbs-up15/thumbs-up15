@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at 
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react,ui/ux,Html,Flutter**
 
 - 📫 How to reach me **nuh uh**
 
